@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2024
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CosmosDBFunctionsAPI", "CosmosDBFunctionsAPI\CosmosDBFunctionsAPI.csproj", "{590A1057-998F-4BB6-9C0A-BA1ACB78B707}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIArtifacts", "APIArtifacts\APIArtifacts.csproj", "{B8637216-CC6A-4AD0-B3AA-C8CF66D2BA8C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{590A1057-998F-4BB6-9C0A-BA1ACB78B707}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{590A1057-998F-4BB6-9C0A-BA1ACB78B707}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{590A1057-998F-4BB6-9C0A-BA1ACB78B707}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8637216-CC6A-4AD0-B3AA-C8CF66D2BA8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8637216-CC6A-4AD0-B3AA-C8CF66D2BA8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8637216-CC6A-4AD0-B3AA-C8CF66D2BA8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8637216-CC6A-4AD0-B3AA-C8CF66D2BA8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
